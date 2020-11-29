@@ -1,0 +1,25 @@
+Basic :
+
+Bit wise operators
+    * program to OFF a bit at given "x" postion of number "n".
+    * program to ON a bit at given "x" postion of number "n".
+    * program to FLIP a bit at given "x" postion of number "n".
+    * to check number is power of 2 or not.
+    * check given nummber is even or odd.
+    * find the nummber which is repeated odd number of times in a given array.
+
+
+Logical
+    * biggest number among 2 numbers or 3 nummbers.
+    * print 3 number variables in sorted order.
+    * given an array of size n-1, contains 1 to n . Find missing element. Hint:(sum of n natural numbers -  sum of given numbers).
+    * fibonacci series and nth fibonacci number.
+    * find equilibrium point(x), where sum of elements left to x index == sum of elements right to x index.
+    * different approaches of prime number or not.
+    * find given number is palindrom or not.
+    * reverse of a given number.
+    * reverse of sentence but not words(Eg: i/p - The sun rises in the east. o/p - east the in rises sun The). 
+
+
+Recursion
+    * fibonacci series.
